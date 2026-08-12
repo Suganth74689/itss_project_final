@@ -33,7 +33,7 @@ DEMO_USERS: Dict[str, dict] = {
         "full_name": "SUGANTH.S.T",
         "role": "System Administrator",
         "department": "Enterprise AI & Risk Core",
-        "avatar_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+        "avatar_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80http://raw.githubusercontent.com/Suganth74689/itss_project_final/refs/heads/main/frontend/public/suganth.jpeg",
     }
 }
 
