@@ -30,7 +30,7 @@ DEMO_USERS: Dict[str, dict] = {
         "username": "admin@nexusbank.com",
         "password": "admin123",
         "email": "admin@nexusbank.com",
-        "full_name": "Elena Rostova",
+        "full_name": "SUGANTH.S.T",
         "role": "System Administrator",
         "department": "Enterprise AI & Risk Core",
         "avatar_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
